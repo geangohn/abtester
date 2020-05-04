@@ -12,3 +12,6 @@ Upcoming: A/B tests speed up
 - Linearization
 - CUPED
 - Bucketing
+
+Interesting articles:
+- A/B at [Avito](https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.habr.com/ru/company/avito/blog/454164/&ved=2ahUKEwi-5JnP-ZjpAhURr4sKHX0ACagQFjABegQIBBAB&usg=AOvVaw2AXG69l1UiOskXxnqEy1Zr) 
