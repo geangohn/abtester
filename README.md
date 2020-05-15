@@ -1,8 +1,8 @@
 # abtester
 Theory and implementatuon of various A/B experiments
 
-**Currently** 
-Added examples for:
+**Currently**   
+Added examples for:  
 - Standard T-test
 - Mann-Whitney U-test
 - Bootstrapped testing
