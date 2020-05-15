@@ -1,5 +1,7 @@
 # abtester
-Theory and implementatuon of various A/B experiments
+Theory and implementatuon of various A/B experiments 
+
+![](ab_main.jpg)
 
 **Currently**   
 Added examples for:  
