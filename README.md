@@ -25,4 +25,4 @@ Added theory for:
 - A/B framework at [Airbnb](https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0)
 - Presentation from [Yandex](https://habr.com/ru/company/yandex/blog/342704/)
 - Technique for multiple A/B tests at [Google](https://ai.google/research/pubs/pub36500) 
-- Comparison of various test statistics power from [VK](https://medium.com/@vktech/practitioners-guide-to-statistical-tests-ed2d580ef04f) 
+- [Comparison](https://medium.com/@vktech/practitioners-guide-to-statistical-tests-ed2d580ef04f) of various test statistics power from VK
