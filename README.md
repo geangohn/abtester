@@ -21,6 +21,7 @@ Added theory for:
 - Bucketing
 
 **Interesting articles**:
+- How to check A/B splitting systems, [article](https://sense23.com/post/kejs-kak-opredelyat-kachestvo-sistemy-a-b-testirovaniya) 
 - A/B at [Avito](https://www.google.com/url?sa=t&source=web&rct=j&url=https://m.habr.com/ru/company/avito/blog/454164/&ved=2ahUKEwi-5JnP-ZjpAhURr4sKHX0ACagQFjABegQIBBAB&usg=AOvVaw2AXG69l1UiOskXxnqEy1Zr) 
 - A/B framework at [Airbnb](https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0)
 - Presentation from [Yandex](https://habr.com/ru/company/yandex/blog/342704/)
